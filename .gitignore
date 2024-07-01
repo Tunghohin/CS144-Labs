@@ -1,5 +1,6 @@
 *.json
 *.ppm
+*.o
 **/objs/
 **/.cache/
 **/.vscode/
